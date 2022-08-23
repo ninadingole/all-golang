@@ -9,12 +9,11 @@ require (
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang-migrate/migrate/v4 v4.14.1
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/mattes/migrate v3.0.1+incompatible
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
-	github.com/montanaflynn/stats v0.6.6
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/opencontainers/runc v1.1.0 // indirect
 	github.com/pkg/errors v0.9.1
