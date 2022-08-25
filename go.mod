@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
-	github.com/aws/aws-sdk-go v1.44.83
+	github.com/aws/aws-sdk-go v1.44.84
 	github.com/containerd/continuity v0.2.2 // indirect
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.6.0
