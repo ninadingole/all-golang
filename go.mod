@@ -14,6 +14,6 @@ require (
 	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
 	github.com/testcontainers/testcontainers-go v0.14.0
-	gorm.io/driver/mysql v1.4.4
+	gorm.io/driver/mysql v1.4.5
 	gorm.io/gorm v1.24.2
 )
