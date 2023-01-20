@@ -11,9 +11,10 @@ require (
 	github.com/mattes/migrate v3.0.1+incompatible
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/moby/sys/mount v0.3.3 // indirect
+	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.6.1
-	github.com/spf13/viper v1.14.0
+	github.com/spf13/viper v1.15.0
 	github.com/stretchr/testify v1.8.1
 	github.com/testcontainers/testcontainers-go v0.17.0
 	gorm.io/driver/mysql v1.4.5
