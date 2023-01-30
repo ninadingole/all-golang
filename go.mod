@@ -3,7 +3,7 @@ module github.com/ninadingole/all-golang
 go 1.15
 
 require (
-	github.com/aws/aws-sdk-go v1.44.180
+	github.com/aws/aws-sdk-go v1.44.189
 	github.com/containerd/cgroups v1.0.4 // indirect
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/golang-migrate/migrate/v4 v4.15.2
